@@ -1,0 +1,16 @@
+{
+    "name": "InterpolationAssembly",
+    "rootNamespace": "ProjectDew.Interpolation",
+    "references": [
+        "GUID:4bfce2b3949fb2f4bb876d06a621acc3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
